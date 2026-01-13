@@ -115,6 +115,8 @@ curl http://localhost:8080/api/v1/load-optimizer/info
   "utilization_volume_percent": 70.0
 }
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8df99f18-e3a4-47c0-a3da-f74b61bf92ab" />
+
 
 ## Algorithm
 
